@@ -1,0 +1,8 @@
+Station ID's derived from - 
+http://www.bom.gov.au/climate/data/#mapoption
+
+## Melbourne (station IDs)
+Melbourne Airport - (0)86282
+Moorabbin Airport - (0)86077
+Laverton RAAF - (0)87031
+
