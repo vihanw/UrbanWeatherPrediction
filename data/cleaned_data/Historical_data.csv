@@ -1,0 +1,3 @@
+﻿,Precipitation_since_9am_local_time_in_mm,Air_Temperature_in_degrees_C,Relative_humidity_in_percentage,local_time,Mean_sea_level_pressure_in_hPa,swdown,lwdown,windN,windE,month_of_year,hour_of_day
+Min,0,-2.8,0,0,1000,0,226.3,-62.95,-62.95,1,0
+Max,113.4,46.4,100,60,1042,1135.3,432.95,56.5,56.5,12,23
