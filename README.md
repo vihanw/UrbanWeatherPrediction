@@ -1,3 +1,3 @@
 # UrbanHeatIsland
 
-This is a project for the Artificial Intelligence unit. The idea is to create a deep learning regession model to predict the temperature in Melbourne. The data will be kept in different folders.
+Implementation of two artificial intelligence models for weather predictions in Melbourne. The model consist in an standard Multilayer Perceptron (MLP), and Long Short Term Memory (LSTM). The models are defined in the notebooks Feed_Forward_NN and LSTM_forecast respectively. 
